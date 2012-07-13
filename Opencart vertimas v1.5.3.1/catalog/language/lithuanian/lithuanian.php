@@ -14,7 +14,7 @@ $_['text_yes']              = 'Taip';
 $_['text_no']               = 'Ne';
 $_['text_none']             = ' --- Nepasirinkta --- ';
 $_['text_select']           = ' --- Prašome pasirinkti --- ';
-$_['text_all_zones']        = 'Visos zonos';
+$_['text_all_zones']        = 'Visos geografinės zonos';
 $_['text_pagination']       = 'Rodoma nuo {start} iki {end} iš {total} ({pages} puslapių)';
 $_['text_separator']        = ' &raquo; ';
 
@@ -45,7 +45,7 @@ $_['button_search']         = 'Ieškoti';
 $_['button_shipping']       = 'Patvirtinti pristatymą';
 $_['button_guest']          = 'Svečio atsiskaitymas';
 $_['button_view']           = 'Žiūrėti';
-$_['button_voucher']        = 'Naudotį kvitą';
+$_['button_voucher']        = 'Naudotį dovanų kuponą';
 $_['button_upload']         = 'Įkelti failą';
 $_['button_reward']         = 'Naudoti taškus';
 $_['button_quote']          = 'Gauti kainas';
@@ -58,5 +58,5 @@ $_['error_upload_4']        = 'Įspėjimas: Joks failas nebuvo įkeltas!';
 $_['error_upload_6']        = 'Įspėjimas: Trūksta laikino aplankalo!';
 $_['error_upload_7']        = 'Įspėjimas: Nepavyko failo įrašyti į diską!';
 $_['error_upload_8']        = 'Įspėjimas: Failas sustabdytas kelti!';
-$_['error_upload_999']      = 'Įspėjimas: Jokių klaidų kode nėra!';
+$_['error_upload_999']      = 'Įspėjimas: Jokių klaidų kode nerasta!';
 ?>
