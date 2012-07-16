@@ -76,5 +76,5 @@ $_['text_voucher']                     = 'Dovanų čekiai';
 $_['text_voucher_theme']               = 'Čekių dizainai';
 $_['text_weight_class']                = 'Svorio klasės';
 $_['text_length_class']                = 'Ilgio klasės';
-$_['text_zone']                        = 'Zonos';
+$_['text_zone']                        = 'Geografinės zonos';
 ?>
