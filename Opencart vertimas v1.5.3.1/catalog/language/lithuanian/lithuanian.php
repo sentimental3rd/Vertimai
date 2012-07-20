@@ -51,12 +51,12 @@ $_['button_reward']         = 'Naudoti taškus';
 $_['button_quote']          = 'Gauti kainas';
 
 // Error
-$_['error_upload_1']        = 'Įspėjimas: Įkeltas failas viršija nustatymą dydį funkcijoje upload_max_filesize faile php.ini!';
-$_['error_upload_2']        = 'Įspėjimas: Įkeltas failas viršija nustatymą dydį funkcijoje MAX_FILE_SIZE kuri buvo apibrėžta HTML formoje!';
-$_['error_upload_3']        = 'Įspėjimas: Įkeltas failus buvo tik iš dalies įkeltas į tinklalapį!';
+$_['error_upload_1']        = 'Įspėjimas: Įkeltas failas viršija nustatytą dydį funkcijoje upload_max_filesize faile php.ini!';
+$_['error_upload_2']        = 'Įspėjimas: Įkeltas failas viršija nustatytą dydį funkcijoje MAX_FILE_SIZE kuri buvo apibrėžta HTML formoje!';
+$_['error_upload_3']        = 'Įspėjimas: Pateikti failai buvo tik iš dalies įkelti į tinklalapį!';
 $_['error_upload_4']        = 'Įspėjimas: Joks failas nebuvo įkeltas!';
 $_['error_upload_6']        = 'Įspėjimas: Trūksta laikino aplankalo!';
-$_['error_upload_7']        = 'Įspėjimas: Nepavyko failo įrašyti į diską!';
-$_['error_upload_8']        = 'Įspėjimas: Failas sustabdytas kelti!';
+$_['error_upload_7']        = 'Įspėjimas: Į diską failo įrašyti nepavyko!';
+$_['error_upload_8']        = 'Įspėjimas: Failo kėlimas sustabdytas!';
 $_['error_upload_999']      = 'Įspėjimas: Jokių klaidų kode nerasta!';
 ?>
