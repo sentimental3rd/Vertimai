@@ -1,23 +1,23 @@
 <?php
 // Text
 $_['text_title']       = 'Klarna Invoice';
-$_['text_information'] = 'Klarna Information';
-$_['text_additional']  = 'Klarna requires some additional information before they can proccess your order.';
-$_['text_wait']        = 'Please wait!';
-$_['text_male']        = 'Male';
-$_['text_female']      = 'Female';
+$_['text_information'] = 'Klarna Informacija';
+$_['text_additional']  = 'Klarna reikalauja pateikti papildomos informacijos. Tuomet bus patvirtintas Jūsų užsakymas.';
+$_['text_wait']        = 'Prašome palaukti!';
+$_['text_male']        = 'Vyras';
+$_['text_female']      = 'Moteris';
 
 // Entry
-$_['entry_gender']     = 'Gender:';
-$_['entry_pno']        = 'PNO / BIRTH DATA:<span class="help">(07071960)</span>';
-$_['entry_house_no']   = 'House No.:';
+$_['entry_gender']     = 'Lytis:';
+$_['entry_pno']        = 'Gimimo data :<span class="help">(07071960)</span>';
+$_['entry_house_no']   = 'Namo numeris:';
 $_['entry_house_ext']  = 'House Ext.:';
-$_['entry_cellno']     = 'Cell Phone:';
+$_['entry_cellno']     = 'Telefonas:';
 
 // Error
-$_['error_gender']     = 'Gender Required!';
-$_['error_dob']        = 'Date of birth Required!';
-$_['error_house_no']   = 'House No. Required!';
+$_['error_gender']     = 'Įveskite lytį!';
+$_['error_dob']        = 'Įveskite gimimo datą!';
+$_['error_house_no']   = 'Įveskite namo numerį!';
 $_['error_house_ext']  = 'House Extension Required!';
-$_['error_dob']        = 'Date of birth Required!';
+$_['error_dob']        = 'Įveskite gimimo datą!';
 ?>
